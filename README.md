@@ -1,4 +1,4 @@
-### Olá! Eu Will 👋
+### Olá! Eu sou Will 👋
 
 
 - 💻: Desenvolvedor Full Stack Java Jr. em Construção - Generation Brasil
