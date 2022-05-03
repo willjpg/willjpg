@@ -1,8 +1,9 @@
 ### Olá! Eu sou Will 👋
 
 
-- 💻: Desenvolvedor Full Stack Java Jr. em Construção - Generation Brasil
 - 😄 Pronouns: ele/dele
+- 💻 Desenvolvedor Full Stack Java Jr. em Construção - Generation Brasil
+- 👨🏻‍💻 Universidade Federal do ABC - Ciência da Computação 
  
  <div>
   <a href="https://github.com/willjpg">
