@@ -22,6 +22,7 @@ Computação.
  
  
 </div>  
+  
   ![Snake animation](https://github.com/willjpg/willjpg/blob/output/github-contribution-grid-snake.svg)
   
 </div>
