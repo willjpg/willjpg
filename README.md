@@ -2,7 +2,7 @@
 
 
 - 😄 Pronouns: ele/dele [<img align="right" height="130" src="https://github-readme-stats.vercel.app/api?username=WillJpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>](https://github.com/willjpg)
-- 💻 Desenvolvedor Full Stack Java Jr. em Construção - [Generation Brasil](https://brazil.generation.org/) 
+- 💻 Desenvolvedor Full Stack Java Jr. - *em construção* - [Generation Brasil](https://brazil.generation.org/) 
 - 👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/)
 -
 -
