@@ -5,6 +5,10 @@
 - 💻 Desenvolvedor Full Stack Java Jr. em Construção - [Generation Brasil](https://brazil.generation.org/) 
 - 👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/+)
 
+
+
+
+
 .
 
 
