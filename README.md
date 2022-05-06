@@ -4,15 +4,13 @@
 - 😄 Pronouns: ele/dele [<img align="right" height="130" src="https://github-readme-stats.vercel.app/api?username=WillJpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>](https://github.com/willjpg)
 - 💻 Desenvolvedor Full Stack Java Jr. em Construção - [Generation Brasil](https://brazil.generation.org/) 
 - 👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/+)
-
-
-
-
-
-.
-
+-
+-
+-
+-
 
 [<img align="right" height="109" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillJpg&layout=compact&langs_count=7&theme=dark"/>](https://github.com/willjpg)
+
 ## Sobre mim
 - Tenho plena noção do que quero para meu futuro! Estou
 em constante desenvolvimento,
