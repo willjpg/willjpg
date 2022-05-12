@@ -7,7 +7,7 @@
 </br>
 </br>
 </br>
-</br>
+
 [<img align="right" height="109" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillJpg&layout=compact&langs_count=7&theme=dark"/>](https://github.com/willjpg)
 
 ## Sobre mim
