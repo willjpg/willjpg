@@ -11,14 +11,12 @@ Criativo, boa comunicação e capacidade de trabalhar em equipe. Flexível, com 
 Atualmente me preparando para o BC&T e Ciência da Computação na UFABC.
 
 ##
-<div align="left">
+<div>
   <a href="https://github.com/willjpg">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willjpg&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="168em" align="left" src="https://github-readme-stats.vercel.app/api?username=willjpg&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   
-</div>
-<div align="right">
   <a href="https://github.com/willjpg">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjpg&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjpg&layout=compact&langs_count=7&theme=gruvbox"/>
   
 </div>
                                                                                                                                              
