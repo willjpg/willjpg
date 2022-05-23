@@ -10,20 +10,15 @@
 Criativo, boa comunicação e capacidade de trabalhar em equipe. Flexível, com perfil analítico.
 Atualmente me preparando para o BC&T e Ciência da Computação na UFABC.
 
-
-[<img align="right" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillJpg&layout=compact&langs_count=7&theme=dark"/>](https://github.com/willjpg)
-
-[<img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=WillJpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>](https://github.com/willjpg)
-
-
+##
+<div align="center">
+  <a href="https://github.com/willjpg">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=willjpg&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjpg&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
  
- 
-  
-
   ![Snake animation](https://github.com/willjpg/willjpg/blob/output/github-contribution-grid-snake.svg)
-  
-
-  
+ 
   ## Contato
   
  <div> 
