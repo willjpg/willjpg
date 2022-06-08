@@ -23,17 +23,11 @@ Atualmente me preparando para o BC&T e Ciência da Computação na UFABC.
   <img height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjpg&layout=compact&langs_count=7&theme=gruvbox"/>
   
 </div>
-<div align="center">                                                                                                                                             
-                                                                                                                                             
-  ![Snake animation](https://github.com/willjpg/willjpg/blob/output/github-contribution-grid-snake.svg)
- 
-</div>  
-   
-  ##
-   
-<div align="center">
+  <br>
+  <div align="center" padding="30">
     <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -43,3 +37,12 @@ Atualmente me preparando para o BC&T e Ciência da Computação na UFABC.
     <img alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img alt="Nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div>
+<div align="center">                                                                                                                                             
+                                                                                                                                             
+  ![Snake animation](https://github.com/willjpg/willjpg/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>  
+   
+  ##
+   
+
