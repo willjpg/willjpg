@@ -19,8 +19,8 @@ Atualmente me preparando para o BC&T e Ciência da Computação na UFABC.
 ##
 <div align="center">
   <a href="https://github.com/willjpg" >
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=willjpg&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=insivam&layout=compact&langs_count=7&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=willjpg&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjpg&layout=compact&langs_count=7&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6"/>
   
 </div>
   <br>
