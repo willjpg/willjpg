@@ -6,9 +6,7 @@
 - 👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/)
 
 ## Sobre mim
-- Amante de Artes e Tecnologia.
-
-Atualmente estudando JavaScript, React e me preparando para o BC&T e Ciência da Computação na UFABC.
+Amante de Artes e Tecnologia. Atualmente estudando JavaScript, React e me preparando para o BC&T e Ciência da Computação na UFABC.
 ### Contato
   
  <div align="center"> 
