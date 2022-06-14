@@ -7,8 +7,8 @@
 
 ## Sobre mim
 - Amante de Artes e Tecnologia.
-Criativo, boa comunicação e capacidade de trabalhar em equipe. Flexível, com perfil analítico.
-Atualmente me preparando para o BC&T e Ciência da Computação na UFABC.
+
+Atualmente estudando JavaScript, React e me preparando para o BC&T e Ciência da Computação na UFABC.
 ### Contato
   
  <div align="center"> 
