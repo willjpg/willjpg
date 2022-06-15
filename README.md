@@ -1,9 +1,17 @@
+<img align=right height="350em"  width="350"  src="https://i.imgur.com/1gBMtU4.png" title="source: imgur.com" />
+
 ### Olá! Eu sou Will 👋
 
 
-- 😄 Pronouns: ele/dele 
-- 💻 Desenvolvedor Full Stack Java Jr. - [Generation Brasil](https://brazil.generation.org/) 
-- 👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/)
+😄 Pronouns: ele/dele 
+
+
+💻 Desenvolvedor Full Stack Java Jr. - [Generation Brasil](https://brazil.generation.org/) 
+
+
+👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/)
+  
+
 
 ## Sobre mim
 Amante de Artes e Tecnologia. Atualmente estudando JavaScript, React e me preparando para o BC&T e Ciência da Computação na UFABC.
