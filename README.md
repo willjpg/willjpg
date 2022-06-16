@@ -1,5 +1,4 @@
 ### Olá! Eu sou Will 👋
-<img align=right height="350em"  width="350"  src="https://i.imgur.com/1gBMtU4.png" title="source: imgur.com" />
 
 
 
@@ -12,6 +11,7 @@
 
 👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/)
   
+<img align=right height="350em"  width="350"  src="https://i.imgur.com/1gBMtU4.png" title="source: imgur.com" />
 
 
 ## Sobre mim
