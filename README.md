@@ -5,7 +5,7 @@
 
 
 
-😄 Pronouns: ele/dele 
+😄 Pronomes: ele/dele 
 
 
 💻 Desenvolvedor Full Stack Java Jr. - [Generation Brasil](https://brazil.generation.org/) 
