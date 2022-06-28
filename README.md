@@ -1,6 +1,6 @@
 <img align=right height="360em"  width="360"  src="https://i.imgur.com/1gBMtU4.png" title="source: imgur.com" />
 
-### Olá! Eu sou Will 👋
+## Olá! Eu sou Will 👋
 
 
 
@@ -15,16 +15,16 @@
   
 
 
-## Sobre mim
+### Sobre mim
 Amante de Artes e Tecnologia. Atualmente estudando JavaScript, React e me preparando para o BC&T e Ciência da Computação na UFABC.
-### Contato
+#### Contato
   
- <div align="center"> 
+ <div> 
   <a href="https://www.linkedin.com/in/willfdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:willferreiradasilva23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
   
 </div>
   
-##
+
 <div align="center">
   <a href="https://github.com/willjpg" >
   <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=willjpg&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
