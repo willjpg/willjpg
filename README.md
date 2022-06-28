@@ -51,6 +51,4 @@ Amante de Artes e Tecnologia. Atualmente estudando JavaScript, React e me prepar
  
 </div>  
    
-  ##
-   
 
