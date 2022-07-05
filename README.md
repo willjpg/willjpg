@@ -16,7 +16,7 @@
 
 
 ### Sobre mim
-Amante de Artes e Tecnologia. Atualmente estudando JavaScript, React e me preparando para o BC&T e Ciência da Computação na UFABC.
+Amante de Artes e Tecnologia. Atualmente estudando ReactJs e me preparando para o BC&T e Ciência da Computação na UFABC.
 #### Contato
   
  <div> 
