@@ -20,7 +20,7 @@ Amante de Artes e Tecnologia. Atualmente estudando ReactJs e me preparando para 
 #### Contato
   
  <div> 
-  <a href="https://www.linkedin.com/in/willfdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:willferreiradasilva23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+  <a href="https://www.linkedin.com/in/willfdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:willferreiradasilva23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> <a href = "mailto:willianf.silva@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-%230077B5?style=for-the-badge&logo=outlook&logoColor=white" target="_blank">
   
 </div>
   
