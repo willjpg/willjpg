@@ -8,12 +8,21 @@
 😄 Pronomes: ele/dele 
 
 
-💻 Desenvolvedor Full Stack Java Jr. - [Generation Brasil](https://brazil.generation.org/) 
+💻 Desenvolvedor Full Stack Jr.
 
 
 👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/)
   
-
+<details align="left">
+<summary><b>Experiência</b></summary>
+   <br/>
+    
+[<img align="left" height="94px" width="94px" alt="Generation" target="_blank" src="https://i.imgur.com/hCMyZKz.png"/>](https://brazil.generation.com.br/)
+**Full Stack Developer** \
+[**Generation**](https://brazil.generation.org/) • BootCamp \
+Languages & Technologies: `React JS`, `Java`, `JavaScrit`, `TypeScript` `Spring`, `HTML`, `CSS`, `Git`, `MySQL`  \
+Featured Projects: [Discoleta](https://github.com/Discoleta) & [Magister](https://github.com/insivam/Magister)
+</details> 
 
 ### Sobre mim
 Amante de Artes e Tecnologia. Atualmente estudando ReactJs e me preparando para o BC&T e Ciência da Computação na UFABC.
@@ -44,9 +53,8 @@ Amante de Artes e Tecnologia. Atualmente estudando ReactJs e me preparando para 
     <img alt="Nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div>
 <div align="center">                                                                                                                                             
-                                                                                                                                             
-  ![Snake animation](https://github.com/willjpg/willjpg/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                                    
+  *![Snake animation](https://github.com/willjpg/willjpg/blob/output/github-contribution-grid-snake.svg)*
  
 </div>  
-   
-
+ 
