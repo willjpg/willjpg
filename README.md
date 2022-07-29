@@ -20,8 +20,8 @@
 [<img align="left" height="94px" width="94px" alt="Generation" target="_blank" src="https://i.imgur.com/hCMyZKz.png"/>](https://brazil.generation.com.br/)
 **Full Stack Developer** \
 [**Generation**](https://brazil.generation.org/) • BootCamp \
-Languages & Technologies: `React JS`, `Java`, `JavaScript`, `TypeScript` `Spring`, `HTML`, `CSS`, `Git`, `MySQL`  \
-Featured Projects: [Discoleta](https://github.com/Discoleta) & [Magister](https://github.com/insivam/Magister)
+Linguagens & Tecnologias: `React JS`, `Java`, `JavaScript`, `TypeScript`, `Spring`, `HTML`, `CSS`, `Git`, `MySQL`  \
+Projetos desenvolvidos: [Discoleta](https://github.com/Discoleta) & [Magister](https://github.com/willjpg/Projeto-Magister)
 </details> 
 
 ### Sobre mim
