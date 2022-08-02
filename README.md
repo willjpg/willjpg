@@ -25,7 +25,7 @@ Projetos desenvolvidos: [Discoleta](https://github.com/Discoleta) & [Magister](h
 </details> 
 
 ### Sobre mim
-Amante de Artes e Tecnologia. Atualmente estudando ReactJs e me preparando para o BC&T e Ciência da Computação na UFABC.
+Amante de Artes e Tecnologia. Atualmente estudando ReactJs, GraphQL, Apollo client e me preparando para o BC&T e Ciência da Computação na UFABC.
 #### Contato
   
  <div> 
