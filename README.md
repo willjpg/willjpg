@@ -22,6 +22,13 @@
 [**Generation**](https://brazil.generation.org/) • BootCamp Turma 49 2022\
 Linguagens & Tecnologias: `React JS`, `Java`, `JavaScript`, `TypeScript`, `Spring`, `HTML`, `CSS`, `Git`, `MySQL`  \
 Projetos desenvolvidos: [Discoleta](https://github.com/Discoleta) & [Magister](https://github.com/willjpg/Projeto-Magister)
+
+
+[<img align="left" height="94px" width="94px" alt="Generation" target="_blank" src="https://yt3.ggpht.com/qMPyLWsg6kipqVXeVUmusXfNABJGAWignNcYfS7jlEXLsD44PU3dVSFlf8e4sMXTAJKExbDREw=s900-c-k-c0x00ffffff-no-rj"/>](https://brazil.generation.com.br/)
+**Impulso Javascript Evolution** \
+[**DIO**](https://web.dio.me/home) • BootCamp Certificado [Impulso](https://hermes.digitalinnovation.one/certificates/834F4804.pdf)\
+Linguagens & Tecnologias: `React JS`, `JavaScript`, `TypeScript`, `NodeJs`, `Jest`,`Api Rest`, `HTML`, `CSS`, `Git`, `PostgreSQL`, `Mongo DB`  \
+Projetos desenvolvidos: https://github.com/willjpg/dio
 </details> 
 
 ### Sobre mim
