@@ -12,7 +12,7 @@
 
 
 👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/)
-  
+________________________
 <details align="left">
 <summary><b>Experiência</b></summary>
    
@@ -36,8 +36,16 @@ Linguagens & Tecnologias: `React JS`, `JavaScript`, `TypeScript`, `NodeJs`, `Jes
 Projetos desenvolvidos: https://github.com/willjpg/dio
 </details> 
 
+<details align="left">
+<summary><b>Figma <img alt="Spring" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></b></summary>
+  
+[Descomplica Desafio Full stack layout](https://www.figma.com/design/oryHxvq6OvgX7ZuEK8goF7/Untitled?node-id=0-1)
+[Descomplica Site para evento](https://www.figma.com/design/oryHxvq6OvgX7ZuEK8goF7/Untitled?node-id=0-1)
+
+</details> 
+
 ### Sobre mim
-Amante de Artes e Tecnologia. Atualmente estudando ReactJs, GraphQL, Apollo client e me preparando para o BC&T e Ciência da Computação na UFABC.
+Amante de Artes e Tecnologia. Atualmente estudando ReactJs, GraphQL, Apollo client e me preparando para o mundo no BC&T e Ciência da Computação na UFABC.
 #### Contato
   
  <div> 
@@ -49,7 +57,7 @@ Amante de Artes e Tecnologia. Atualmente estudando ReactJs, GraphQL, Apollo clie
 <div align="center">
   <a href="https://github.com/willjpg" >
   <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=willjpg&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjpg&layout=compact&langs_count=7&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6"/>
+  
   
 </div>
   <br>
@@ -64,9 +72,5 @@ Amante de Artes e Tecnologia. Atualmente estudando ReactJs, GraphQL, Apollo clie
     <img alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img alt="Nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div>
-<div align="center">                                                                                                                                             
-                                                                                                                                    
-  *![Snake animation](https://github.com/willjpg/willjpg/blob/output/github-contribution-grid-snake.svg)*
- 
-</div>  
+
  
