@@ -44,7 +44,7 @@ Projetos desenvolvidos: https://github.com/willjpg/dio
 <summary><b>Figma <img alt="Spring" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></b></summary>
   
 [Descomplica Desafio Full stack layout](https://www.figma.com/design/oryHxvq6OvgX7ZuEK8goF7/Untitled?node-id=0-1) \
-[Descomplica Site para evento](https://www.figma.com/design/oryHxvq6OvgX7ZuEK8goF7/Untitled?node-id=0-1)
+[Descomplica Site para evento](https://www.figma.com/design/ptjsbGNFiJPxI1wK5J0lOf/Plataforma-de-Evento-Descomplica?node-id=0-1)
 
 </details> 
 
