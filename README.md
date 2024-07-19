@@ -14,7 +14,7 @@
 👨🏻‍💻 Ciência da Computação - [Universidade Federal do ABC](https://www.ufabc.edu.br/)
 ________________________
 ### Sobre mim
-Amante de Artes e Tecnologia. Atualmente estudando ReactJs, GraphQL, Apollo client e me preparando para o mundo no BC&T e Ciência da Computação na UFABC.
+Amante de Artes e Tecnologia. Atualmente estudando e me preparando para o mundo no BC&T e Ciência da Computação na UFABC.
 
 <details align="left">
 <summary><b>Experiência</b></summary>
